@@ -1,5 +1,5 @@
-<h3 align="center">HI, WELCOME TO MY PAGE 👋👋👋</h3>
-<p align="center" style="font-weight: 500;">I am an Information Technology student, majoring in web programming. I am interested in learning new technologies.</p><br>
+<h1 align="center">HI, WELCOME TO MY PAGE 👋👋👋</h1>
+<h4 align="center" style="font-weight: 600;">I am an Information Technology student, majoring in web programming. I am interested in learning new technologies.</h4><br>
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
