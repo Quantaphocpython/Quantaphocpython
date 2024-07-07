@@ -1,5 +1,5 @@
 <h1 align="center">HI, WELCOME TO MY PAGE 👋👋👋</h1>
-<h4 align="center" style="font-weight: 600;">I am an Information Technology student, majoring in web programming. I am interested in learning new technologies.</h4><br>
+<h3 align="center" style="font-weight: 500;">I am an Information Technology student, majoring in web programming. I am interested in learning new technologies.</h3><br>
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
@@ -56,6 +56,9 @@
   <span>
     <img src="https://img.shields.io/badge/Git-20232A?logo=git&logoColor=F05032" alt="Git logo" title="Git" height="25" />
   </span>
+    <span>
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub logo" title="GitHub" height="25" />
+  </span>
   <span>
     <img src="https://img.shields.io/badge/Bootstrap-20232A?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" />
   </span>
@@ -82,5 +85,8 @@
   </span>
   <span>
     <img src="https://img.shields.io/badge/IntelliJ-20232A?logo=intellij-idea&logoColor=000000" alt="IntelliJ IDEA logo" title="IntelliJ IDEA" height="25" />
+  </span>
+  <span>
+    <img src="https://img.shields.io/badge/Firebase-20232A?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />
   </span>
 </div>
