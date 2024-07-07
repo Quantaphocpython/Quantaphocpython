@@ -1,22 +1,28 @@
-<h3 align="center">WELCOME TO MY PAGE 👋👋👋</h3>
-<p align="center">I am an Information Technology student, majoring in web programming. I am interested in learning new technologies.</p><br>
+<h3 align="center">HI, WELCOME TO MY PAGE 👋👋👋</h3>
+<p align="center" style="font-weight: 500;">I am an Information Technology student, majoring in web programming. I am interested in learning new technologies.</p><br>
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<br>
-<div align=center>
+<!-- <br> -->
+<div align="center">
   <a href="#" title="Quantaphocpython">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quantaphocpython&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
   <a href="#" title="Quantaphocpython">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=Quantaphocpython&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img align="center" width="434" src="https://github-readme-stats.vercel.app/api?username=Quantaphocpython&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
+</div>
+<br>
+<div style="text-align: center;" align="center">
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=Quantaphocpython&theme=radical" alt="GitHub Streak" >
+    </a>
 </div>
 <br>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px; margin-top: 20px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 5px; margin-top: 0px;">
   <span>
     <img src="https://img.shields.io/badge/HTML5-20232A?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
   </span>
@@ -78,6 +84,3 @@
     <img src="https://img.shields.io/badge/IntelliJ-20232A?logo=intellij-idea&logoColor=000000" alt="IntelliJ IDEA logo" title="IntelliJ IDEA" height="25" />
   </span>
 </div>
-
-
-
