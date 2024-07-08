@@ -12,6 +12,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
+<br>
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
@@ -21,7 +22,7 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Quantaphocpython&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph"/></a>
   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=Quantaphocpython&theme=dark&mode=weekly" alt="GitHub Streak" /></a>
 </p>
-
+<br>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 5px; margin-top: 0px;">
