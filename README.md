@@ -1,5 +1,5 @@
 <h1 align="center">HI, WELCOME TO MY PAGE 👋👋👋</h1>
-<h3 align="center" style="font-weight: 500;">I am an Information Technology student, majoring in web programming. I am interested in learning new technologies.</h3><br>
+<h4 align="center" style="font-weight: 500;">I am an Information Technology student, majoring in web programming. I am interested in learning new technologies.</h4>
 
 <p align='center'>
   <a href="https://github.com/Quantaphocpython">
@@ -11,7 +11,7 @@
   <a href="https://github.com/Quantaphocpython">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-</p></br>
+</p>
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
@@ -21,7 +21,6 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Quantaphocpython&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph"/></a>
   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=Quantaphocpython&theme=dark&mode=weekly" alt="GitHub Streak" /></a>
 </p>
-<br>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 
