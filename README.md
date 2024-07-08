@@ -1,23 +1,26 @@
 <h1 align="center">HI, WELCOME TO MY PAGE 👋👋👋</h1>
 <h3 align="center" style="font-weight: 500;">I am an Information Technology student, majoring in web programming. I am interested in learning new technologies.</h3><br>
 
+<p align='center'>
+  <a href="https://github.com/Quantaphocpython">
+    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />        
+  </a>&nbsp;&nbsp;
+   <a href="https://www.facebook.com/profile.php?id=100011149218172">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebooks&logoColor=#white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/Quantaphocpython">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</p></br>
+
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!-- <br> -->
-<div align="center">
-  <a href="#" title="Quantaphocpython">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quantaphocpython&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
-  <a href="#" title="Quantaphocpython">
-    <img align="center" width="434" src="https://github-readme-stats.vercel.app/api?username=Quantaphocpython&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </a>
-</div>
-<br>
-<div style="text-align: center;" align="center">
-    <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=Quantaphocpython&theme=radical" alt="GitHub Streak" >
-    </a>
-</div>
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Quantaphocpython&show_icons=true&theme=radical" height="150" alt="languages graph"/></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Quantaphocpython&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph"/></a>
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=Quantaphocpython&theme=dark&mode=weekly" alt="GitHub Streak" /></a>
+</p>
 <br>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
