@@ -55,12 +55,10 @@
 
 ###
 
-<p align="left">Oop, the snake ate all my stats...</p>
+<img src="https://raw.githubusercontent.com/quantaphocpython/quantaphocpython/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/quantaphocpython/quantaphocpython/output/snake.svg" alt="Snake animation" />
+<h5 align="left">Oop, the snake ate all my stats...</h5>
 
 ###
