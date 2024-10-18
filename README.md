@@ -1,96 +1,66 @@
-<h1 align="center">HI, WELCOME TO MY PAGE 👋👋👋</h1>
-<h4 align="center" style="font-weight: 500;">I am an Information Technology student, majoring in web programming. I am interested in learning new technologies.</h4>
+<h2 align="center">Hi 👋! My name is Quan<br>I'm a Fullstack Developer from Viet Nam</h2>
 
-<p align='center'>
-  <a href="https://github.com/Quantaphocpython">
-    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />        
-  </a>&nbsp;&nbsp;
-   <a href="https://www.facebook.com/profile.php?id=100011149218172">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebooks&logoColor=#white" />        
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/Quantaphocpython">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-</p>
-<br>
+###
 
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<!-- <br> -->
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Quantaphocpython&show_icons=true&theme=radical" height="150" alt="languages graph"/></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Quantaphocpython&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph"/></a>
-  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=Quantaphocpython&theme=dark&mode=weekly alt="GitHub Streak" /></a>
-</p>
-
-<br>
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 5px; margin-top: 0px;">
-  <span>
-    <img src="https://img.shields.io/badge/HTML5-20232A?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
-  </span>
-  <span>
-    <img src="https://img.shields.io/badge/CSS3-20232A?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
-  </span>
-  <span>
-    <img src="https://img.shields.io/badge/JavaScript-20232A?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
-  </span>
-  <span>
-    <img src="https://img.shields.io/badge/C++-20232A?logo=c%2B%2B&logoColor=00599C" alt="C++ logo" title="C++" height="25" />
-  </span>
-  <span>
-    <img src="https://img.shields.io/badge/Java-20232A?logo=openjdk&logoColor=007396" alt="Java logo" title="Java" height="25" />
-  </span>
-  <span>
-    <img src="https://img.shields.io/badge/TypeScript-20232A?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
-  </span>
-  <span>
-    <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
-  </span>
-  <span>
-    <img src="https://img.shields.io/badge/Redux-20232A?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
-  </span>
-  <span>
-    <img src="https://img.shields.io/badge/Spring%20Boot-20232A?logo=spring-boot&logoColor=6DB33F" alt="Spring Boot logo" title="Spring Boot" height="25" />
-  </span>
-  <span>
-    <img src="https://img.shields.io/badge/Thymeleaf-20232A?logo=thymeleaf&logoColor=005F0F" alt="Thymeleaf logo" title="Thymeleaf" height="25" />
-  </span>
-  <span>
-    <img src="https://img.shields.io/badge/Git-20232A?logo=git&logoColor=F05032" alt="Git logo" title="Git" height="25" />
-  </span>
-    <span>
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub logo" title="GitHub" height="25" />
-  </span>
-  <span>
-    <img src="https://img.shields.io/badge/Bootstrap-20232A?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" />
-  </span>
-  <span>
-    <img src="https://img.shields.io/badge/Tailwind%20CSS-20232A?logo=tailwind-css&logoColor=06B6D4" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />
-  </span>
-  <span>
-    <img src="https://img.shields.io/badge/Docker-20232A?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" />
-  </span>
-  <span>
-    <img src="https://img.shields.io/badge/MongoDB-20232A?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />
-  </span>
-  <span>
-    <img src="https://img.shields.io/badge/Figma-20232A?logo=figma&logoColor=F24E1E" alt="Figma logo" title="Figma" height="25" />
-  </span>
-  <span>
-    <img src="https://img.shields.io/badge/AWS-20232A?logo=amazon-aws&logoColor=232F3E" alt="AWS logo" title="AWS" height="25" />
-  </span>
-  <span>
-    <img src="https://img.shields.io/badge/MySQL-20232A?logo=mysql&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="25" />
-  </span>
-  <span>
-    <img src="https://img.shields.io/badge/VS%20Code-20232A?logo=visual-studio-code&logoColor=007ACC" alt="VS Code logo" title="VS Code" height="25" />
-  </span>
-  <span>
-    <img src="https://img.shields.io/badge/IntelliJ-20232A?logo=intellij-idea&logoColor=000000" alt="IntelliJ IDEA logo" title="IntelliJ IDEA" height="25" />
-  </span>
-  <span>
-    <img src="https://img.shields.io/badge/Firebase-20232A?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />
-  </span>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=quantaphocpython&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=quantaphocpython&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=idea" height="30" alt="intellijidea logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="30" alt="redis logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="hoangquan.tran.work@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/quan-tran-524503248/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100011149218172" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+</div>
+
+###
+
+<p align="left">Oop, the snake ate all my stats...</p>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/quantaphocpython/quantaphocpython/output/snake.svg" alt="Snake animation" />
+
+###
