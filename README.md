@@ -59,6 +59,6 @@
 
 ###
 
-<h5 align="left">Oop, the snake ate all my stats...</h5>
+<h5 align="left">Oop, the snake is eating all my stats...</h5>
 
 ###
