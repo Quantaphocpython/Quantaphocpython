@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hi, I'm Quan Tran (Kaitou)</h1>
+  <h2>👋 Hi, I'm Quan Tran (Kaitou)</h2>
   <p><strong>Fullstack Developer | Blockchain Enthusiast | Viet Nam 🇻🇳</strong></p>
 
 
