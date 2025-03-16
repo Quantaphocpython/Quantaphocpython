@@ -19,11 +19,9 @@
 
 <div align="center">
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,java,spring" height="30" alt="Tech Stack 1" />
-<!--   <br /> -->
-  <img src="https://skillicons.dev/icons?i=nextjs,mongodb,mysql,redis,firebase,aws" height="30" alt="Tech Stack 2" />
-<!--   <br /> -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker" height="30" alt="Tools & Platforms" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,java,spring" height="32" alt="Tech Stack 1" />
+  <img src="https://skillicons.dev/icons?i=nextjs,mongodb,mysql,redis,firebase,aws" height="32" alt="Tech Stack 2" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker" height="32" alt="Tools & Platforms" />
 </p>
 </div>
 
